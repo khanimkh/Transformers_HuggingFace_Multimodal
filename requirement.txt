@@ -1,0 +1,15 @@
+transformers
+sentence-transformers
+torch
+gradio
+timm
+inflect
+phonemizer
+pyttsx3
+gTTS
+soundfile
+librosa
+gradio
+datasets
+torchcodec
+-U datasets
